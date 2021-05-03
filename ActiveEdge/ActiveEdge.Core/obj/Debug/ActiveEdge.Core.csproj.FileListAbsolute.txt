@@ -1,0 +1,11 @@
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\ActiveEdge.Core.dll.config
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\ActiveEdge.Core.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\ActiveEdge.Core.pdb
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\EntityFramework.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\EntityFramework.xml
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\obj\Debug\ActiveEdge.Core.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\obj\Debug\ActiveEdge.Core.csproj.CopyComplete
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\obj\Debug\ActiveEdge.Core.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Core\obj\Debug\ActiveEdge.Core.pdb

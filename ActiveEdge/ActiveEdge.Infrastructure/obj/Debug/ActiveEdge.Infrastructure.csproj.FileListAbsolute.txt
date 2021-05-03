@@ -1,0 +1,15 @@
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Infrastructure.dll.config
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Infrastructure.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Infrastructure.pdb
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Core.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Core.pdb
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\ActiveEdge.Core.dll.config
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\obj\Debug\ActiveEdge.Infrastructure.csprojAssemblyReference.cache
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\obj\Debug\ActiveEdge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\obj\Debug\ActiveEdge.Infrastructure.csproj.CopyComplete
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\obj\Debug\ActiveEdge.Infrastructure.dll
+C:\Users\oluwa\Documents\Source_codes\lexo\activeedge\activeedge\ActiveEdge\ActiveEdge.Infrastructure\obj\Debug\ActiveEdge.Infrastructure.pdb
